@@ -32,9 +32,9 @@ body {
 .container {
     background-color: var(--container-color);
     border-radius: 20px;
-    box-shadow: 20px 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 11px 10px 10px var(--container-color);
     width: 368px;
-    height: 635px;
+    height: 645px;
 }
 
 .container .profile-image {
@@ -43,7 +43,7 @@ body {
 }
 
 .container .profile-image img {
-    width: 122px;
+    width: 140px;
     margin-top: 25px;
     border-radius: 90px;
 }
